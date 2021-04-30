@@ -7,7 +7,7 @@
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Floorplan Used**<br>simple|
 |**Service Type**<br>OData Url|
-|**Service URL**<br>http://localhost:4005/geoconfig
+|**Service URL**<br>http://localhost:4004/geoconfig
 |**Module Name**<br>ui5_demo|
 |**Application Title**<br>Map Configuration App|
 |**Namespace**<br>|
